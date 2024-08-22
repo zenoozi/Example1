@@ -1,0 +1,4 @@
+﻿  practice.cpp
+C:\Users\Behin\source\repos\Project1\practice.cpp(8,27): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Behin\source\repos\Project1\practice.cpp(13,15): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Behin\source\repos\Project1\x64\Debug\Project1.exe
